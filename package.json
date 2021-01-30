@@ -1,0 +1,19 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "Ui library based on google material design and google org styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mds",
+    "material",
+    "design",
+    "system",
+    "patterns",
+    "architecture"
+  ],
+  "author": "max the stranger",
+  "license": "ISC"
+}
